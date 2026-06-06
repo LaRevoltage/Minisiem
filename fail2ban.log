@@ -1,0 +1,2 @@
+2025-06-06 09:14:20,001 fail2ban.actions [987]: NOTICE [sshd] Ban 203.0.113.7
+2025-06-06 09:19:02,114 fail2ban.actions [987]: NOTICE [sshd] Ban 192.0.2.55

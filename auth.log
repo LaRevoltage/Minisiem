@@ -1,0 +1,12 @@
+Jun  6 09:14:02 web01 sshd[2011]: Failed password for invalid user admin from 203.0.113.7 port 51022 ssh2
+Jun  6 09:14:02 web01 sshd[2011]: Invalid user admin from 203.0.113.7 port 51022
+Jun  6 09:14:05 web01 sshd[2013]: Failed password for invalid user oracle from 203.0.113.7 port 51044 ssh2
+Jun  6 09:14:05 web01 sshd[2013]: Invalid user oracle from 203.0.113.7 port 51044
+Jun  6 09:14:08 web01 sshd[2015]: Failed password for root from 203.0.113.7 port 51066 ssh2
+Jun  6 09:14:11 web01 sshd[2017]: Failed password for root from 203.0.113.7 port 51088 ssh2
+Jun  6 09:14:14 web01 sshd[2019]: Failed password for invalid user test from 203.0.113.7 port 51100 ssh2
+Jun  6 09:14:17 web01 sshd[2021]: Failed password for root from 203.0.113.7 port 51122 ssh2
+Jun  6 09:15:40 web01 sshd[2044]: Accepted publickey for deploy from 198.51.100.23 port 40122 ssh2
+Jun  6 09:16:03 web01 sudo[2090]:   deploy : TTY=pts/0 ; PWD=/home/deploy ; USER=root ; COMMAND=/usr/bin/systemctl restart nginx
+Jun  6 09:18:55 web01 sshd[2120]: Failed password for invalid user git from 192.0.2.55 port 33002 ssh2
+Jun  6 09:21:00 web01 sudo[2200]:   deploy : TTY=pts/0 ; PWD=/etc ; USER=root ; COMMAND=/usr/bin/cat /etc/shadow
